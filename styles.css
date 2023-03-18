@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+#main{
+	border:2px solid gray;
+	
+	
+}
+
+#second{
+	margin:20px 20px 20px 20px;
+	background-color:lightblue;
+	border:15px solid blue;
+   padding:50px 50px 50px 50px;
+	
+	
+	
+	
+}
+#third{
+	
+	width:300px;
+	border:2px solid gray;
+	
+	
+	
+}
+#text{
+	
+}
+
